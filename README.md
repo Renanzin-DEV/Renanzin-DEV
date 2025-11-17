@@ -32,30 +32,27 @@ Atualmente desenvolvendo o **ChimeConnect**, uma plataforma inspirada em GitHub 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzin-DEV&layout=compact&theme=radical&bg_color=00000000&title_color=BB2CF7&text_color=FFFFFF&border_color=BB2CF7"/>
 </div>
 
+```mermaid
+graph LR
+    A[Jan — 12 commits] --> B[Feb — 20 commits]
+    B --> C[Mar — 18 commits]
+    C --> D[Apr — 16 commits]
+    D --> E[May — 24 commits]
+    E --> F[Jun — 30 commits]
+    F --> G[Jul — 22 commits]
+    G --> H[Aug — 28 commits]
+    H --> I[Sep — 18 commits]
+    I --> J[Oct — 25 commits]
+    J --> K[Nov — 10 commits]
+    K --> L[Dec — 14 commits]
+
 ---
 
-# 🟣 **📈 Gráfico de Commits – Barras (Compatível com GitHub)**
+## 🟣 **Gráfico de Pizza **
 
+```md
 ```mermaid
-%% Gráfico de Barras – Compatível com GitHub
-chart LR
-    title: Commit Activity (Ano Completo)
-    Jan: 12
-    Feb: 20
-    Mar: 18
-    Apr: 16
-    May: 24
-    Jun: 30
-    Jul: 22
-    Aug: 28
-    Sep: 18
-    Oct: 25
-    Nov: 10
-    Dec: 14
-🟣 🥧 Gráfico de Pizza – Linguagens
-mermaid
-Copiar código
-pie showData
+pie
     title Linguagens Mais Usadas
     "TypeScript" : 70
     "Dart" : 13
@@ -63,25 +60,3 @@ pie showData
     "HTML" : 4
     "CSS" : 4
     "SCSS" : 1
-🟣 🐍 Snake Animation (Cobrinha dos Commits)
-A animação aparecerá automaticamente após o workflow rodar:
-
-<div align="center">
-
-</div>
-🟣 🚀 Projeto Final – ChimeConnect
-🌐 Plataforma moderna inspirada em Discord + GitHub
-Desenvolvida com foco em:
-
-✔ Integração entre comunidades e desenvolvedores
-✔ Canais, perfis, badges e repositórios
-✔ UI neon moderna
-✔ Componentização avançada
-✔ Backend expandível
-
-📌 Documentação em produção — integrada para ser usada no TCC.
-
-🟣 📫 Como me encontrar
-<p align="center"> <a href="https://github.com/Renanzin-DEV"> <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://discord.com/users/"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Renanzin-DEV&color=BB2CF7&style=for-the-badge"> </p>
-<p align="center">✨ README Neon 4.1 – gráficos compatíveis com GitHub!</p> ```
