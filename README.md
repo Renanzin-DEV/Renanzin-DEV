@@ -25,7 +25,7 @@ Atualmente desenvolvendo o **ChimeConnect**, uma plataforma inspirada em GitHub 
 
 ---
 
-# 🟣 **📊 Estatísticas do GitHub (Tema Neon)**
+# 🟣 **📊 Estatísticas do GitHub **
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Renanzin-DEV&show_icons=true&theme=radical&bg_color=00000000&title_color=BB2CF7&icon_color=BB2CF7&text_color=FFFFFF&border_color=BB2CF7"/>
