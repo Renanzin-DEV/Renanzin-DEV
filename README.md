@@ -18,17 +18,15 @@ Atualmente desenvolvendo o **ChimeConnect**, uma plataforma inspirada em GitHub 
 
 ---
 
-# 🟣 **💻 Tecnologias & Ferramentas**
+# 🟣 ** 💻 Tecnologias & Ferramentas**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,flutter,html,css,scss,react,nodejs,git,github,firebase,mongodb,figma" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Renanzin-DEV/Renanzin-DEV/output/snake.svg)
 
 ---
 
-
-# 🟣 **📊 Estatísticas do GitHub **
+# 🟣 ** 📊 Estatísticas do GitHub **
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Renanzin-DEV&show_icons=true&theme=radical&bg_color=00000000&title_color=BB2CF7&icon_color=BB2CF7&text_color=FFFFFF&border_color=BB2CF7"/>
