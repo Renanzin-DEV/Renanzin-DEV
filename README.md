@@ -23,7 +23,10 @@ Atualmente desenvolvendo o **ChimeConnect**, uma plataforma inspirada em GitHub 
   <img src="https://skillicons.dev/icons?i=ts,js,flutter,html,css,scss,react,nodejs,git,github,firebase,mongodb,figma" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/Renanzin-DEV/Renanzin-DEV/output/snake.svg)
+
 ---
+
 
 # 🟣 **📊 Estatísticas do GitHub **
 
